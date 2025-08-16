@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 math = input("put the operation: ").strip()
 
 num1 = int(math.split()[0])
@@ -18,4 +19,6 @@ elif operation == "/":
     answer = num1 / num2
 
 print(float(answer))
+=======
+>>>>>>> 4b9dee3 (Adicionei meus exercicios do cs50p)
 
